@@ -62,4 +62,4 @@ jupyter notebook "The Wind Energy.ipynb"
 ## Author
 **Nikil**
 Final Year B.E. CSE (Data Science/ML) | Chennai, India
-[LinkedIn](#) · [GitHub](#)
+www.linkedin.com/in/nikil-raja-013611257 · [GitHub](#)
