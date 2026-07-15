@@ -16,15 +16,15 @@ Wind turbine generators are prone to unexpected failures that lead to costly dow
 - **Environment:** Google Colab / Spyder
 
 ## ML Models Used
-| Model | Accuracy |
+**Model**                   **Accuracy** 
 
-| **SVM (LinearSVC)** | **0.9909** |
+SVM (LinearSVC)             0.9909
 
-| Logistic Regression | 0.9753 |
+Logistic Regression         0.9753 
 
-| Random Forest | 0.9651 |
+Random Forest               0.9651 
 
-| Naive Bayes | 0.8761 |
+Naive Bayes                 0.8761 
 
 > Random Forest was tuned using `RandomizedSearchCV` for faster hyperparameter optimization on the large dataset. SVM (LinearSVC) delivered the best overall accuracy.
 
